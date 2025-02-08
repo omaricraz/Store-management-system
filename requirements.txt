@@ -1,0 +1,18 @@
+# Django Packages
+Django
+django-autoslug
+django-crispy-forms
+django-extensions
+django-filter
+django-imagekit
+django-phonenumber-field
+django-tables2
+
+# Bootstrap Packages
+crispy-bootstrap5
+
+# Utility Packages
+openpyxl
+phonenumbers
+requests
+tablib
